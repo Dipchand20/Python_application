@@ -105,7 +105,7 @@ nav a:hover {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border: 2px solid #eec643; /* Add a border */
+  border: 2px solid #FFD700; /* Bright yellow */
   border-radius: 5px;
   box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4); /* Add a shadow with a slight offset to the right */
   background-color: #ffffff;
@@ -140,12 +140,12 @@ li {
 
 footer {
   margin-top: auto; /* Push the footer to the bottom */
-  background-color: #183c28;
+  background-color: #FFD700; /* Bright yellow */
   padding-top: 25px;
 }
 
 footer i {
-  color: #eec643;
+  color: #FFD700; /* Bright yellow */
   padding: 0 20px;
   font-size: 2rem;
   transition: opacity 0.3s ease;
