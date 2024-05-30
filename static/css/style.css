@@ -28,7 +28,7 @@ body {
 }
 
 .logo-container {
-  background-color: #ff0000;
+  background-color: #DC143C;
 }
 
 header {
@@ -38,7 +38,7 @@ header {
 }
 
 .navbar {
-  background-color: #183c28;
+  background-color: #DC143C;
   color: #ffffff;
   padding: 1.3rem;
 }
